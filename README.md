@@ -28,3 +28,9 @@ scrollDetect.init([{
   - 숫자: 단위는 px
   - "winH": 윈도우 높이 값을 넣음.  ex) "winH*0.5", "winH/3" 의 형태도 가능
 - callback: 스크롤 감지되었을 때 실행될 callback 
+
+## 데모
+https://smilejmj.github.io/scroll_detect/scroll_detect.html
+
+해당 스크롤 영역에 도달 시 콜백함수가 실행되는 예제입니다. 
+콘솔을 확인해주세요.
